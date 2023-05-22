@@ -10,7 +10,7 @@ const nextConfig = {
             },
           ],
           permanent: true,
-          destination: 'https://www.diamondcertified.org/',
+          destination: 'https://www.diamond-certified-demo.netlify.app/',
         },
           ]
       },
